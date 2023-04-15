@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/James/OneDrive - Nanyang Technological University/GitHub/projects/projects/sudoku solver/tetris",
-      "program": "c:/Users/James/OneDrive - Nanyang Technological University/GitHub/projects/projects/sudoku solver/tetris/build/Debug/outDebug",
+      "cwd": "c:/Users/James/OneDrive - Nanyang Technological University/GitHub/projects/tetris/tetris",
+      "program": "c:/Users/James/OneDrive - Nanyang Technological University/GitHub/projects/tetris/tetris/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
